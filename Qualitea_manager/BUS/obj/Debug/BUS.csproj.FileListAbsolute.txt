@@ -1,0 +1,6 @@
+D:\source\repos\Qualitea_manager\BUS\bin\Debug\BUS.dll
+D:\source\repos\Qualitea_manager\BUS\bin\Debug\BUS.pdb
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.dll
+D:\source\repos\Qualitea_manager\BUS\obj\Debug\BUS.pdb
